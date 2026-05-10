@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="tux.png" width="400" alt="tux">
 </p>
 
